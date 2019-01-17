@@ -896,7 +896,6 @@ footer .form .bottonSend:hover {
     }
 }
 
-
 @media screen and (max-width: 385px)and (min-width: 377px){
     header .containerTextHeader{
         padding: 215px 0 0 0;
@@ -959,7 +958,15 @@ main .portFolio {
     }
 }
 
-@media screen and (max-width: 812px) and (min-width: 375px) {
+@media screen and (max-width: 812px)and (min-width: 300px){
+    header .containerTextHeader .line {
+        width: 60%;
+    }
+    main .icons .icon {
+        max-width: 110px;
+        min-width: 110px;
+        max-height: initial;
+    }
     main .portFolio .containerTitlePortFolio img {
         width: 45%;
         margin-bottom: 2vh;
@@ -971,14 +978,14 @@ main .portFolio {
         height: -webkit-fill-available;
         overflow: visible;
     }
-    header .containerTextHeader{
-        padding: 450px 0 0 0;
-    }
     header .mainNav a {
         font-size: 25px;
     }
     header .containerTextHeader .socialButtons img {
         width: 75px;
         height: 75px;
+    }
+    header .containerTextHeader{
+        padding: 215px 0 0 0;
     }
 }

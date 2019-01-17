@@ -15,7 +15,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="304">
+=======
+            <state relative-caret-position="35">
+>>>>>>> dev
               <caret line="181" column="95" selection-start-line="181" selection-start-column="95" selection-end-line="181" selection-end-column="95" />
             </state>
           </provider>
@@ -33,8 +37,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="188">
               <caret line="971" column="26" selection-start-line="971" selection-start-column="26" selection-end-line="971" selection-end-column="26" />
+=======
+            <state relative-caret-position="352">
+              <caret line="953" column="23" lean-forward="true" selection-start-line="953" selection-start-column="23" selection-end-line="953" selection-end-column="23" />
+>>>>>>> dev
             </state>
           </provider>
         </entry>
@@ -163,15 +172,34 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="107053000" />
+=======
+    <option name="totallyTimeSpent" value="105923000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+>>>>>>> dev
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2751678" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3286119" />
+=======
+      <window_info content_ui="combo" id="Project" order="1" weight="0.2751678" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.20538244" />
+>>>>>>> dev
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -182,7 +210,7 @@
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3286119" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -253,12 +281,8 @@
     <entry file="file://$PROJECT_DIR$/img/Logos/laravel-seeklogo_com.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/tct1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Logos/Method/FuncionamientoMente1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tct1.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/Logos/Method/FuncionamientoMente1.jpg" />
     <entry file="file://$PROJECT_DIR$/img/Logos/angularjs.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -313,15 +337,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="304">
+=======
+        <state relative-caret-position="35">
+>>>>>>> dev
           <caret line="181" column="95" selection-start-line="181" selection-start-column="95" selection-end-line="181" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="188">
           <caret line="971" column="26" selection-start-line="971" selection-start-column="26" selection-end-line="971" selection-end-column="26" />
+=======
+        <state relative-caret-position="352">
+          <caret line="953" column="23" lean-forward="true" selection-start-line="953" selection-start-column="23" selection-end-line="953" selection-end-column="23" />
+>>>>>>> dev
         </state>
       </provider>
     </entry>
