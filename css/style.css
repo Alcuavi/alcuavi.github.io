@@ -487,7 +487,7 @@ footer .form .bottonSend:hover {
 
 @media screen and (max-width: 1039px) {
     .height100{
-        height: auto;
+ /*       height: auto;    */
     }
 
 }
@@ -1048,7 +1048,7 @@ main .portFolio {
     }
     main .portFolio {
         padding: 40px 0;
-        height: -webkit-fill-available;
+        height: inherit;
     }
     footer .footerText .titleParagraphFooter {
         margin-bottom: 12px;
@@ -1087,7 +1087,7 @@ main .portFolio {
         width: 75%;
         max-width: 75%;
         margin: auto;
-        overflow: visible;
+        overflow: inherit;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
