@@ -947,3 +947,26 @@ footer .form .bottonSend:hover {
         height: 75px;
     }
 }
+
+@media screen and (max-width: 812px) and (min-width: 375px) {
+    main .portFolio .containerTitlePortFolio img {
+        width: 45%;
+        margin-bottom: 2vh;
+    }
+    .containerPortFolio {
+        overflow: visible;
+    }
+    main .portFolio {
+        height: -webkit-fill-available;
+    }
+    header .containerTextHeader{
+        padding: 450px 0 0 0;
+    }
+    header .mainNav a {
+        font-size: 25px;
+    }
+    header .containerTextHeader .socialButtons img {
+        width: 75px;
+        height: 75px;
+    }
+}
