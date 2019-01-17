@@ -1096,3 +1096,21 @@ main .portFolio {
         margin-bottom: 45px;
     }
 }
+
+@media screen and (max-width: 700px) and (min-width: 500px) {
+    main .portFolio .containerTitlePortFolio img {
+        width: 31%;
+        margin-bottom: 2vh;
+    }
+    main .containerTextPortFolio {
+        margin-bottom: 30px;
+    }
+    main .containerTextPortFolio .paragraphPortFolio {
+        margin-bottom: 0px;
+        font-size: 12px;
+    }
+    header .containerTextHeader .socialButtons img {
+        width: 50px;
+        height: 50px;
+    }
+}
