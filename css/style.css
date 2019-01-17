@@ -608,6 +608,9 @@ footer .form .bottonSend:hover {
         padding: 5px 10px;
         font-size: 10px;
     }
+    main .portFolio {
+        height: -webkit-fill-available;
+    }
 }
 
 
@@ -892,15 +895,22 @@ footer .form .bottonSend:hover {
     }
 }
 
+
 @media screen and (max-width: 385px)and (min-width: 377px){
     header .containerTextHeader{
         padding: 215px 0 0 0;
     }
 }
+main .portFolio {
+    height: -webkit-fill-available;
+}
 
 @media screen and (max-width: 361px)and (min-width: 321px){
     header .containerTextHeader{
         padding: 200px 0 0 0;
+    }
+    main .portFolio {
+        height: -webkit-fill-available;
     }
 }
 
@@ -948,7 +958,7 @@ footer .form .bottonSend:hover {
     }
 }
 
-@media screen and (max-width: 812px) and (min-width: 300px) {
+@media screen and (max-width: 812px) and (min-width: 375px) {
     main .portFolio .containerTitlePortFolio img {
         width: 45%;
         margin-bottom: 2vh;
