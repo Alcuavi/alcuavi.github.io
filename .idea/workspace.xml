@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53e8341a-3b48-4399-b090-6b858c740bde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="53e8341a-3b48-4399-b090-6b858c740bde" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="970" column="5" selection-start-line="970" selection-start-column="5" selection-end-line="970" selection-end-column="5" />
+            <state relative-caret-position="222">
+              <caret line="845" column="39" lean-forward="true" selection-start-line="845" selection-start-column="39" selection-end-line="845" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -159,12 +156,12 @@
       <workItem from="1547464448940" duration="33165000" />
       <workItem from="1547594529701" duration="3772000" />
       <workItem from="1547598566828" duration="657000" />
-      <workItem from="1547639557983" duration="20052000" />
+      <workItem from="1547639557983" duration="20294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106192000" />
+    <option name="totallyTimeSpent" value="106434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -322,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="970" column="5" selection-start-line="970" selection-start-column="5" selection-end-line="970" selection-end-column="5" />
+        <state relative-caret-position="222">
+          <caret line="845" column="39" lean-forward="true" selection-start-line="845" selection-start-column="39" selection-end-line="845" selection-end-column="39" />
         </state>
       </provider>
     </entry>

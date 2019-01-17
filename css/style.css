@@ -948,7 +948,7 @@ footer .form .bottonSend:hover {
     }
 }
 
-@media screen and (max-width: 812px) and (min-width: 375px) {
+@media screen and (max-width: 812px) and (min-width: 300px) {
     main .portFolio .containerTitlePortFolio img {
         width: 45%;
         margin-bottom: 2vh;
