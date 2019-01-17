@@ -610,6 +610,7 @@ footer .form .bottonSend:hover {
     }
     main .portFolio {
         height: -webkit-fill-available;
+        overflow: visible;
     }
 }
 
@@ -968,6 +969,7 @@ main .portFolio {
     }
     main .portFolio {
         height: -webkit-fill-available;
+        overflow: visible;
     }
     header .containerTextHeader{
         padding: 450px 0 0 0;
