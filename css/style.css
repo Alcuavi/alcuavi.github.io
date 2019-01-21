@@ -200,6 +200,7 @@ header .containerTextHeader .socialButtons img {
     height: 50px;
     border-radius: 100%;
     box-shadow: #15a4fa 0px 0px 1px 4px;
+    background: #2E2E2E;
 }
 
 header .containerTextHeader .linkedin, .github, .facebook, .instagram {
@@ -990,7 +991,7 @@ main .portFolio {
 
 @media screen and (max-width: 812px)and (min-width: 300px){
     header .mainNav a{
-        font-size: 10px;
+        font-size: 11px;
     }
     header .containerTextHeader .titleHeader {
         font-size: 42px;
