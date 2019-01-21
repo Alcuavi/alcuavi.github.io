@@ -1186,6 +1186,7 @@ main .portFolio {
         object-fit: fill;
         width: 100%;
         height: 100%;
-        background-color: mediumaquamarine;
+        background-image: url("../img/Fondos/fondo-abstracto-negro-vector_1340-8573.jpg") ;
+        /*background-color: mediumaquamarine;*/
     }
 }
