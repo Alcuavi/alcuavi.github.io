@@ -199,7 +199,7 @@ header .containerTextHeader .socialButtons img {
     width: 50px;
     height: 50px;
     border-radius: 100%;
-    box-shadow: #000000 1px 2px 2px 1px;
+    box-shadow: #15a4fa 0px 0px 1px 4px;
 }
 
 header .containerTextHeader .linkedin, .github, .facebook, .instagram {
