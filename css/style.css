@@ -541,7 +541,7 @@ footer .form .bottonSend:hover {
     }
     header .containerTextHeader .socialButtons {
         margin-top: 7em;
-        display: flex;
+        /*display: flex;*/
     }
     .containerTitleAboutMe {
         max-width: 80%;
@@ -664,7 +664,7 @@ footer .form .bottonSend:hover {
     }
     header .containerTextHeader .socialButtons {
         margin-top: 13em;
-        display: flex;
+        /*display: flex;*/
     }
     .containerTitleAboutMe {
         max-width: 80%;
@@ -806,7 +806,7 @@ footer .form .bottonSend:hover {
     }
     header .containerTextHeader .socialButtons {
         margin-top: 13em;
-        display: flex;
+        /*display: flex;*/
     }
     .containerTitleAboutMe {
         max-width: 80%;
@@ -1007,7 +1007,7 @@ main .portFolio {
     }
     header .containerTextHeader .socialButtons {
         margin-top: 13em;
-        display: flex;
+        /*display: flex;*/
     }
     .containerTitleAboutMe {
         max-width: 80%;
