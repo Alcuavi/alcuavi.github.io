@@ -1189,4 +1189,7 @@ main .portFolio {
         background-image: url("../img/Fondos/fondo-abstracto-negro-vector_1340-8573.jpg") ;
         /*background-color: mediumaquamarine;*/
     }
+    main .respons{
+        height: auto;
+    }
 }
