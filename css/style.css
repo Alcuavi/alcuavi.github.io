@@ -328,10 +328,10 @@ main .portFolio .containerTitlePortFolio {
 }
 
 main .portFolio .containerTitlePortFolio img {
-    width: 33%;
-    height: 50%;
     margin-bottom: 1vh;
     border-radius: 15px;
+    width: 23em;
+    height: 12em;
 }
 
 main .portFolio .containerTitlePortFolio img:hover {
@@ -968,7 +968,6 @@ main .portFolio {
 
 @media screen and (max-width: 1025px)and (min-width: 602px){
     main .portFolio .containerTitlePortFolio img {
-        width: 45%;
         margin-bottom: 2vh;
     }
     .containerPortFolio {
@@ -1110,8 +1109,9 @@ main .portFolio {
         padding: 10px;
     }
     main .portFolio .containerTitlePortFolio img {
-        width: 45%;
         margin-bottom: 2vh;
+        width: 8em;
+        height: 7em;
     }
 
     .containerPortFolio {
