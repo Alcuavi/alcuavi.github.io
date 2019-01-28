@@ -518,7 +518,7 @@ footer .form .bottonSend:hover {
 
 @media screen and (max-width: 1039px) {
     .height100{
- /*       height: auto;    */
+        height: auto;
     }
 
 }
