@@ -767,8 +767,9 @@ footer .form .bottonSend:hover {
         padding: 10px;
     }
     main .portFolio .containerTitlePortFolio img {
-        width: 45%;
         margin-bottom: 2vh;
+        width: 8em;
+        height: 7em;
     }
 
     .containerPortFolio {
@@ -909,8 +910,9 @@ footer .form .bottonSend:hover {
         padding: 10px;
     }
     main .portFolio .containerTitlePortFolio img {
-        width: 45%;
         margin-bottom: 2vh;
+        width: 8em;
+        height: 7em;
     }
 
     .containerPortFolio {
@@ -955,8 +957,9 @@ main .portFolio {
         max-height: initial;
     }
     main .portFolio .containerTitlePortFolio img {
-        width: 45%;
         margin-bottom: 2vh;
+        width: 8em;
+        height: 7em;
     }
     .containerPortFolio {
         overflow: visible;
@@ -1130,8 +1133,9 @@ main .portFolio {
 
 @media screen and (max-width: 700px) and (min-width: 500px) {
     main .portFolio .containerTitlePortFolio img {
-        width: 31%;
         margin-bottom: 2vh;
+        width: 8em;
+        height: 7em;
     }
     main .containerTextPortFolio {
         margin-bottom: 30px;
