@@ -977,7 +977,7 @@ main .portFolio {
         overflow: visible;
     }
     main .portFolio {
-        height: -webkit-fill-available;
+        height: auto;
     }
     header .containerTextHeader{
         padding: 450px 0 0 0;
